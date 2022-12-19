@@ -110,8 +110,8 @@ EOF
 cat <<-EOF > /v2raybin/vmess.json
 {
     "v": "2",
-    "ps": "${AppName}.herokuapp.com",
-    "add": "${AppName}.herokuapp.com",
+    "ps": "${AppName}-koala.koyeb.app",
+    "add": "${AppName}-koala.koyeb.app",
     "port": "443",
     "id": "${UUID}",
     "aid": "${AlterID}",
